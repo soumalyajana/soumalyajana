@@ -5,8 +5,8 @@
 </p>
 
 🌱 I’m currently learning **Full-Stack Development, DSA, and AI**  
-💡 Interested in **App Development, Web Development, and AI-based Systems**  
-🎯 Goal: Get placed in  IT companies by **2026**  
+💡 Interested in **WEb Development, Web Development, and AI-based Systems**  
+ 
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
